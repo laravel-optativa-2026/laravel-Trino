@@ -1,4 +1,4 @@
-# 📘 Proyecto Laravel — [Tu nombre y apellidos]
+# 📘 Proyecto Laravel — [Trino]
 
 > **Curso:** [Curso / Grupo] · **Módulo:** [Nombre del módulo] · **Curso académico:** 20XX-20XX
 
