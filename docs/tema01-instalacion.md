@@ -1,18 +1,17 @@
-# Tema XX: [Título del tema]
+# Tema 01: Instalación con Docker
 
 | | |
 |---|---|
-| **Fecha de inicio** | dd/mm/aaaa |
-| **Fecha de fin** | dd/mm/aaaa |
-| **Tiempo dedicado** | X horas |
-| **Rama de Git** | `temaXX` |
+| **Fecha de inicio** | 09/11/2026 |
+| **Fecha de fin** | 16/11/2026 |
+| **Tiempo dedicado** | 1 horas |
+| **Rama de Git** | `tema01` |
 
 ---
 
 ## 1. 🎯 Objetivo del tema
 
-<!-- Explica con TUS palabras qué había que conseguir en este tema (2-4 líneas).
-     No copies el enunciado. -->
+Instalación del proyecto con Docker y creación del proyecto Laravel.
 
 ---
 
